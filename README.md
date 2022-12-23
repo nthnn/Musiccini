@@ -19,7 +19,7 @@ You can also check the [example.ino](./example/example.ino) included in this rep
 
 Download this repository, then open the Arduin IDE you have installed on your system. And then, from the menu bar above ***Sketch > Include Library > Add .ZIP Library*** Or you can simple extract the *libraries* folder to the Arduino folder in the documents.
 
-## Demo
+## [Demo](example/demo.mp4)
 
 I am using an Arduino UNO R3 clone for this demonstration.
 
