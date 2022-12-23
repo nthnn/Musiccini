@@ -21,7 +21,9 @@ Download this repository, then open the Arduin IDE you have installed on your sy
 
 ## Demo
 
-![Demonstration Video](example/demo.mp4)
+I am using an Arduino UNO R3 clone for this demonstration.
+
+<video src="example/demo.mp4" controls autoplay width="640" height="320"></video>
 
 ## Documentation
 
